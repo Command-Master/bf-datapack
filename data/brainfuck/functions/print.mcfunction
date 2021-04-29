@@ -1,0 +1,1 @@
+tellraw @a ["output: ", {"nbt":"a1[-1]","storage":"brainfuck:data"}]
